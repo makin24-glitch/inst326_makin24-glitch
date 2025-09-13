@@ -1,2 +1,11 @@
-Sept 11, 2025
+Week 1 
+   Sept 11, 2025 
     Formed our groups for team projects. Familiarized ourselves with journal entries on GitHub. 
+    No AI was used but I believed I should document something for the first day of jouranaling. 
+
+    Sept 12, 2025
+        Used AI (ChatGPT) to detect discrepancies in MySQL for a lab assignemntm involving the beginner statements (SELECT, ORDER BY, and CONCAT).
+
+    Sept 13, 2025 
+        Used AI (ChatGPT) to explore/research beginner AIML projects and their scopes. 
+        I have yet to make a decision on a project but I do enjoy learning more about AIML.
