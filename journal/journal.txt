@@ -9,3 +9,40 @@ Week 1
     Sept 13, 2025 
         Used AI (ChatGPT) to explore/research beginner AIML projects and their scopes. 
         I have yet to make a decision on a project but I do enjoy learning more about AIML.
+
+    Sept 14, 2025 
+        Asked ChatGpt why use .format strings as suggested in Week 1 excercise.
+        It gave me 4-5 reasons.
+            1. Its cleaner than concatenation.
+                Example code
+                name = "Mylo"
+                age = 21
+                # Using concatenation
+                s = "My name is " + name + " and I am " + str(age) + " years old."
+                # Using .format()
+                s = "My name is {} and I am {} years old.".format(name, age)
+
+            2. It is reusable and flexible. We can specify 
+                Example code:
+                s = "Coordinates: {1}, {0}".format("Y", "X")  # Output: "Coordinates: X, Y"
+                s = "Hello {0}, meet {0}".format("Mylo")      # Output: "Hello Mylo, meet Mylo"
+
+            3. Formatting numbers and values. .format() lets you control width, precision, alignment, etc.
+                Example code:
+                pi = 3.14159
+                s = "Pi rounded to 2 decimals: {:.2f}".format(pi)  # "Pi rounded to 2 decimals: 3.14"
+
+            4. Named placeholders.
+                Example code: 
+                s = "Name: {name}, Age: {age}".format(name="Mylo", age=21)
+
+            5. But nowadays, f-stringd are preffered because of they're shorter, faster, and more readable. 
+                Example code: 
+                name = "Mylo"
+                age = 21
+                s = f"My name is {name} and I am {age} years old."
+
+            All in all. .format and f-strings methods are the preffered ways building strings dynamically because of their fasters and shorter process.
+
+            
+
