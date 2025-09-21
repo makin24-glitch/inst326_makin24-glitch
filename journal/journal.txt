@@ -50,4 +50,9 @@ Week 2
     Sept 18, 2025 
         Testing sync changes in journals from Visual Code.  
     
-    Sept ..., 2025 
+    Sept 20, 2025
+        Experimented with ChatGPT, Claude, and DeepSeek to which would be a useful resource in making my dashboard project. 
+        Was introduced to Perplexity and explored its functions. 
+
+    Sept 21, 2025 
+        Had Claude explain to me Python concept like for and while loops, the meaning of "in range" in statements, and the significance of enumerating.
