@@ -65,3 +65,15 @@ Week 3
         Mostly clarifying/demostrating Python concepts and interpreting a few the tasks in exercises. 
         For example, I learned about the zip() function while completing Exercise 11. specifying this function ensured
         both list were being iterated simultaneously rather then iterating through a whole list before looking at the other. 
+
+        Exercise 11 Code: 
+                
+
+                def books_by_author_fuzzy(titles, authors, author_query):
+                    matching_titles = []
+                    for title, author in zip(titles, authors): # Use zip to iterate through both lists simultaneously
+                        if author.strip().lower() == author_query.strip().lower():
+                            matching_titles.append(title)
+                    return matching_titles
+
+    Sept ..., 2025 
