@@ -56,3 +56,12 @@ Week 2
 
     Sept 21, 2025 
         Had Claude explain to me Python concept like for and while loops, the meaning of "in range" in statements, and the significance of enumerating.
+
+
+Week 3
+
+    Sept 23, 2025 
+        Most of my queries were regarding the Week 3 exercise assignment. 
+        Mostly clarifying/demostrating Python concepts and interpreting a few the tasks in exercises. 
+        For example, I learned about the zip() function while completing Exercise 11. specifying this function ensured
+        both list were being iterated simultaneously rather then iterating through a whole list before looking at the other. 
