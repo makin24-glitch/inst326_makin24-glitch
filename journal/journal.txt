@@ -76,4 +76,9 @@ Week 3
                             matching_titles.append(title)
                     return matching_titles
 
-    Sept ..., 2025 
+    Sept 25, 2025 
+        Recieved feedback on Week 02 Exercise. 
+        
+        Logging feedback here for referencing purposes:
+        Problem 22 - Uses .split("7") which only works if first digit is 7. Fails for other call numbers like "QA85.73.P98". Should loop until finding any digit.
+        Problem 27 - Always prints warning, no conditional check. Should only warn if lengths don't match.
