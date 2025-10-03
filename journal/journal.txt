@@ -83,4 +83,13 @@ Week 3
         Problem 22 - "Uses .split("7") which only works if first digit is 7. Fails for other call numbers like "QA85.73.P98". Should loop until finding any digit. "
             Hard coded "7", Should loop unil finding any digt. 
         
-        Problem 27 - Always prints warning, no conditional check. Should only warn if lengths don't match.
+        Problem 27 - Always prints warning, no conditional check. Should only warn if lengths don't match.4
+
+Week 4 
+    Oct 1, 2025
+        Used Claude to breif me the most common functions and concepts used in Python.
+        Used ChatGPT to develop an init file for our Group Project - Data Summurizing Dashboard.
+
+    Oct 4, 2025 
+        Used ChatGPT to research all career paths in Information Science. 
+        Organized them in catergories of interest, salary, locations and other attribbutes. 
