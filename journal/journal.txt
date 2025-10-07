@@ -108,3 +108,6 @@ Week 5
         After that generate a few functions, I had guide in testing these functions which involved 
         making a new folder in the directory with sample data (data/sample_data.csv).
 
+        STOPPED AT TRYING TO RUN TEST EXAMPLE AT APRROX 2:07 PM 
+        
+
