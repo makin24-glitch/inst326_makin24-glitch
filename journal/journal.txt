@@ -93,3 +93,18 @@ Week 4
     Oct 4, 2025 
         Used ChatGPT to research all career paths in Information Science. 
         Organized them in catergories of interest, salary, locations and other attribbutes. 
+
+
+Week 5 
+    Oct 7, 2025 
+        Used ChatGPT to generate and organize a few functions for my team's dashboard project (setup logger (), 
+                                                                                                load_library_data,
+                                                                                                validate input(),
+                                                                                                create_report(), and
+                                                                                                generate_dashboard(),
+                                                                                                ) 
+        (Indented as such to form the habit of good Python code style)
+
+        After that generate a few functions, I had guide in testing these functions which involved 
+        making a new folder in the directory with sample data (data/sample_data.csv)
+
