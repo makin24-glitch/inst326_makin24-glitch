@@ -109,5 +109,8 @@ Week 5
         making a new folder in the directory with sample data (data/sample_data.csv).
 
         STOPPED AT TRYING TO RUN TEST EXAMPLE AT APRROX 2:07 PM 
-        
+
+    Oct 11 to 12, 20225
+    Used ChatGPT and Claude to revise the code for Week 5 exercises and team project.
+
 
