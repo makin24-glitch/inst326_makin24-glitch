@@ -117,5 +117,9 @@ Week 6
     Oct 21, 2025 
         I was inspired by Professor Dempwolf using Claude AI in this meta-cognitive-(I forgot the last word haaha)
         practice, helping him organize his thoughts and projects. That being said, I decided to take a simliar approach with my 
-        AI practices for organizing my knowledge in the subjects pertaining to this course and others. 
+        AI practices for organizing my knowledge in the subjects pertaining to this course and others.
+
+    Oct 23, 2025 
+        Began working on Project 02 assignment involving organizing functions into clasess.
+        I asked ChatGPT to organized functions in 4 core classes, reflecting the number of team members.  
 
