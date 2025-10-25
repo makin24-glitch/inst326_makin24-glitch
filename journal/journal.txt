@@ -121,5 +121,9 @@ Week 6
 
     Oct 23, 2025 
         Began working on Project 02 assignment involving organizing functions into clasess.
-        I asked ChatGPT to organized functions in 4 core classes, reflecting the number of team members.  
+        I asked ChatGPT to organized functions in 4 core classes, reflecting the number of team members. 
+
+    Oct 25, 2025 
+        Completed Week 6 exercise. I used Chat GPT for explanations on their class methods and and external python libaries.
+        Additionally, I relied on Gemini for debugging and explaning causes of error.  
 
