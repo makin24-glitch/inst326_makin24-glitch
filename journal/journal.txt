@@ -125,5 +125,11 @@ Week 6
 
     Oct 25, 2025 
         Completed Week 6 exercise. I used Chat GPT for explanations on their class methods and and external python libaries.
-        Additionally, I relied on Gemini for debugging and explaning causes of error.  
+        Additionally, I relied on Gemini for debugging and explaning causes of error. 
+
+Week 7 
+    Oct 27, 2025 
+        I experimented with using generative chatbots to help organize my thinking while dealing with exercises.        
+        I looked at chatbots like ChatGPT, Claude, Perplexity, and Gemini while researching ways to improve my study plan with
+        generative tools. 
 
