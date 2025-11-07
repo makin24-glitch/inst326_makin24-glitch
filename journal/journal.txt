@@ -141,3 +141,30 @@ Week 8
         (4) The code seems to be fine. If anything, we need to some refining on our end with code organization and continuity. 
         (5) Finally, through this process I learned the characteristics that make up an inheritance hierarchy. 
 
+    Nov 6, 2025 
+        1. Dataset Setup: We downloaded and extracted the Library Management System Kaggle dataset, 
+        then confirmed the CSV files (books.csv, members.csv, etc.) were present locally.
+
+
+        2. Project Folder Organization: We clarified that the dataset should be moved
+            into the project’s data/library_management_system/ folder to be accessible by scripts.
+
+
+        3. Verification Script: I provided a verify_dataset.py script to load
+            and preview all CSV files using pandas to ensure they are correctly readable.
+
+
+        4. Python Environment & Pandas: We installed pandas in your Python environment
+            and verified it was available for use, including handling PowerShell path and module errors.
+
+
+        5. Requirements Management: We discussed creating a requirements.txt file, 
+            both full (via pip freeze) and minimal (only essential packages: pandas, numpy, kaggle, SQLAlchemy) for GitHub.
+
+
+        6. GitHub Considerations: We covered syncing local clones with remote GitHub changes
+            and noted that a README added via GitHub must be pulled to appear in the local clone.
+
+
+        7. Installation-focused README: I drafted a concise README.md with step-by-step installation instructions,
+            including Python version, optional virtual environment, package installation, Kaggle setup, and dataset verification
