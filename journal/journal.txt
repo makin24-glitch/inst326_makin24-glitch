@@ -171,5 +171,13 @@ Week 8
 
 Week 9
    November 15, 2025 
-      I was curious to kmow other LLM's approach to building my group's project, so I asked Claude and Perplexity to create a minimal dashobaord using 15 functions split into four classes
-      that will experience inheritante, polymorphismm, and composition. Perplexity had code that used inheritance by having Button and Chart classes inherit from a common Widget base class. Polymorphism was praticed by overriding display() in child classes, and composition through a Dashboard class that manages multiple widget objects. For Claude, right of the bat I relaized that I should have specified class names and (maybe) a method quanity for each class. Nonetheless, Claude AI provided me with a similar approach; for instance, the inheritance hierarchy was split into a Task base class and two derivied classes (UrgentTask and RecurringTask). For polymorphic behavior, All task types have get_status() and get_type(), but each implements it differently. Finally, in composition, The Dashboard class uses components from the NotificationSystem and TaskFilter class.
+      I was curious to know other LLM's approach to building my group's project, so I asked Claude and Perplexity to create a minimal dashboard using 15 functions split into four classes
+      that will experience inheritante, polymorphismm, and composition. Perplexity had code that used inheritance by having Button and Chart classes inherit from a common Widget base class. Polymorphism was praticed by overriding display() in child classes, and composition through a Dashboard class that manages multiple widget objects. For Claude, right of the bat I relaized that I should have specified class names and (maybe) a method quanity for each class. Nonetheless, Claude AI provided me with a similar approach; for instance, the inheritance hierarchy was split into a Task base class and two derived classes (UrgentTask and RecurringTask). For polymorphic behavior, All task types have get_status() and get_type(), but each implements it differently. Finally, in composition, the Dashboard class uses components from the NotificationSystem and TaskFilter classes.
+
+
+Week 10
+   November 19, 2025 
+      Given my group's decision in redoing our project from the beginning, I am taking this opportunity to use Claude AI in understanding and completing the assignemets related to this project. In this new approach, I aim to practice better prompting and have a clearer vision of what we want this project to be. I have already constructed a prompt that asks Claude to create a comprehensive checklist for our dashboard project and aim to complete all the task by Sunday, November 19, 2025. 
+      However, what will be submitted from Project 3 will differ from its respective section in our cumulative project. In an effort not to rush - too much - on our new project, we will be submitting a sample code of what it may look like in our final submission. Concepts like ABCs, Polymorphism, Inheritance, and Composition will be relevant to the situation we are discussing in our project. 
+
+
