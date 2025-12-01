@@ -180,4 +180,9 @@ Week 10
       Given my group's decision in redoing our project from the beginning, I am taking this opportunity to use Claude AI in understanding and completing the assignemets related to this project. In this new approach, I aim to practice better prompting and have a clearer vision of what we want this project to be. I have already constructed a prompt that asks Claude to create a comprehensive checklist for our dashboard project and aim to complete all the task by Sunday, November 19, 2025. 
       However, what will be submitted from Project 3 will differ from its respective section in our cumulative project. In an effort not to rush - too much - on our new project, we will be submitting a sample code of what it may look like in our final submission. Concepts like ABCs, Polymorphism, Inheritance, and Composition will be relevant to the situation we are discussing in our project. 
 
+Week 11
+   (Thanksgiving Break)
 
+Week 12 
+   Decemeber 01, 2025 
+      Continued refining inheritance system for group project.
