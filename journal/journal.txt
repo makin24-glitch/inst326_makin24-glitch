@@ -186,3 +186,25 @@ Week 11
 Week 12 
    December 01, 2025 
       Redefined with deliverables.
+
+Week 13 
+   December 14, 2025
+      Project Scope Consolidation – AI was used to clarify assignment requirements, translate rubric language into actionable goals, and restate the project scope in concise technical terms for team alignment.
+
+      Repository Standardization – AI assisted in recommending logical folder structures, consistent file naming conventions, and resolving import path issues during repository cleanup and refactoring.
+
+      Core Domain Model Review – AI helped evaluate class responsibilities, suggest inheritance hierarchies, and validate adherence to object-oriented principles without altering instructor-mandated constraints.
+
+   Sample Data Integration – AI generated realistic, structured in-memory sample datasets and verified their compatibility with existing domain classes and demonstration scripts.
+
+   OOP Principles Validation – AI reviewed code snippets to confirm correct use of abstraction, inheritance, and polymorphism, particularly ensuring subtype behavior worked without conditional logic.
+
+   Workflow Clarification – AI was used to translate code execution into step-by-step system workflows suitable for documentation and slide presentation.
+
+   Testing & Demonstration Scripts – AI assisted in drafting demo scripts, identifying missing implementations, and ensuring test cases exercised polymorphic behavior across item subtypes.
+
+   Error Identification & Debugging – AI supported troubleshooting by analyzing traceback errors, diagnosing environment and import issues, and proposing corrective steps during execution failures.
+
+   Team Task Alignment – AI helped structure task assignments by converting informal discussion into clear role-based responsibilities aligned with project phases.
+
+   Documentation & Presentation Readiness – AI was used to format markdown files, refine technical writing, and adapt content for instructor-facing documentation and presentation materials.
